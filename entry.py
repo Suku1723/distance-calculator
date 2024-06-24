@@ -2,7 +2,7 @@ import requests
 from creds import key
 
 class LocationEntry:
-
+# Vijay doing work
     def __init__(self, currLocation, destination) -> None:
         self.currLocation = currLocation
         self.destination = destination
