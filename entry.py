@@ -1,5 +1,5 @@
-import requests
 from creds import key
+import requests
 
 class LocationEntry:
 # DO some stuff merge is fixed
